@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--is only for me -->
-  <!--<remove-project name="LineageOS/android_packages_apps_Updater" />
-  <project name="Exodusnick/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="lineage-15.1" />-->
   <!--LOS Repos-->
   <remove-project name="LineageOS/android_hardware_interfaces" />
   <project name="Exodusnick/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-15.1" />
